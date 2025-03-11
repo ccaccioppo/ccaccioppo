@@ -12,5 +12,3 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Carlo | LinkedIn" width="22px" src="https://www.linkedin.com/in/carlo-caccioppo-b18842355/" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

@@ -1,4 +1,5 @@
 <h1>Hi, I'm Carlo, an <a href="https://linkedin.com/in/carlo-caccioppo-b18842355">Aspiring IT Professional</a>☺</h1>
+Here are some of my latest projects that I’ve had the opportunity to work on. These projects demonstrate my hands-on experience and proficiency with a variety of tools, technologies, and methodologies. Feel free to take a look around!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

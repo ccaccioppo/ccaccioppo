@@ -10,7 +10,8 @@ Here are some of my latest projects that I’ve had the opportunity to work on. 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ccaccioppo/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ccaccioppo/configure-ad)
-  
+  - [Network File Shares and Permissions](https://github.com/ccaccioppo/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/ccaccioppo/Building-Intuition-for-DNS)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

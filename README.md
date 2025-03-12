@@ -8,9 +8,9 @@ Here are some of my latest projects that I’ve had the opportunity to work on. 
   - [osTicket: Post-Installation Configuration](https://github.com/ccaccioppo/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ccaccioppo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ccaccioppo/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ccaccioppo/azure-network-protocols)
-
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ccaccioppo/configure-ad)
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
